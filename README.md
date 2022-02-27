@@ -3,6 +3,10 @@
 Thai sentences from Common Voice
 https://commonvoice.mozilla.org/sentence-collector/
 
+You can get lastest rejected text or approved text from Common Voice api
+- rejected: [https://commonvoice.mozilla.org/sentence-collector/sentences/text/rejected/th](https://commonvoice.mozilla.org/sentence-collector/sentences/text/rejected/th)
+- approved: [https://commonvoice.mozilla.org/sentence-collector/sentences/text/approved/th](https://commonvoice.mozilla.org/sentence-collector/sentences/text/approved/th)
+
 ## Rejected sentences
 ประโยคที่ถูกปฏิเสธ
 - rejected.txt - ประโยคที่ถูกปฏิเสธมาจาก Sentence Collector
